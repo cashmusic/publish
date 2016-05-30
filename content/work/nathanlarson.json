@@ -17,9 +17,11 @@
 		}
 	],
 	"tags":[
-		"open",
+		"culture",
 		"impact",
-		"community"
+		"community",
+		"technology",
+		"discovery"
 	],
 	"template":"twocol-twothirds-hero",
 	"template_styles":"#nathanlarson{background:#2c2c2c;}",

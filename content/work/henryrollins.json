@@ -22,9 +22,13 @@
 		}
 	],
 	"tags":[
-		"open",
 		"impact",
-		"community"
+		"culture",
+		"economics",
+		"business models",
+		"fans",
+		"technology"
+		"sustainability"
 	],
 	"template":"twocol-twothirds-hero",
 	"template_styles":"#henryrollins{background-color:#000;} #henryrollins h2, #henryrollins blockquote, #henryrollins blockquote p{font-family: 'nova_cutbook'!important; text-transform: uppercase;}",
